@@ -11,7 +11,8 @@ applications by going into the folder and starting the server:
 And visit `http://localhost:8000`.
 
 
-Live At `sirajgadag.pythonanywhere.com`
+Live At: 
+ `sirajgadag.pythonanywhere.com`
 
 Running on PythonAnywhere
 -------------------------
